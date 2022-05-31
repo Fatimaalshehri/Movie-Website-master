@@ -27,5 +27,4 @@ A simple movies website, If you like movies, this website will be useful to you,
 - Allow users to remove movies from watch later list.
 
 
-<img width="1440" alt="Screen Shot 2022-05-31 at 9 25 58 PM" src="https://user-images.githubusercontent.com/71190859/171258498-0bae7918-5d86-4463-8a41-08c52585bca8.png">
 
